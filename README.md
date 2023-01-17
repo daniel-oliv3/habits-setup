@@ -126,8 +126,19 @@ npx tsc --init
     "target": "es2020",   
 ```
 
-
-
+- tsx 
+```
+npm i tsx -D
+```
+    - Executar
+        npx tsx src/server.ts
+    
+- Alterar trecho de código no arquivo `package.json`
+```json
+  "scripts": {
+    "dev": "tsx src/server.ts"
+  },
+```
 
 
 
