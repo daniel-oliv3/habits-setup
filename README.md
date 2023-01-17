@@ -63,11 +63,19 @@ React.js, React Native, Node.js, JavaScript, TypeScript, Tailwind CSS.
 ##
 
 
+- Criação do projeto
+- Setup TypeScript
+- Criando a primeira rota
+- Configurando o Prisma
+- Configurando o CORS
+
 **Criação do projeto**
 
 - Criar a pasta `server`
 - Acessar a pasta `server`
 
+**Fundamentos do NodeJS**
+- Node permite executar javascript fora do ambiente do browser
 ```js
 //Exemplo Node(V8)
 var a = 1;
@@ -81,13 +89,35 @@ console.log(a + b);
 node soma.js
 ```
 
+**Criando o projeto com node.js**
+
+- Comando para criar o arquivo `package.json`
+```
+npm init -y
+```
+
+
+
+
+
 
 ##
 ### FRONT-END
 ##
 
 
+- Fundamentos do React
+- Criação do projeto
+- Componentes e propriedades
+- Configurando o Tailwind CSS
 
+
+##
+### MOBILE
+##
+
+- Expo
+- Expo GO
 
 
 
