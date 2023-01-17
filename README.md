@@ -171,10 +171,32 @@ npm run dev
   - Site: https://www.prisma.io/
 
 **Prisma**
+- ORM
 - Instalar o Prisma como depêndencia de desenvolvimento
 ```
 npm i -D prisma
 ```
+
+- Prisma Client
+```
+npm i @prisma/client
+```
+
+- SQLite
+```
+npx prisma init --datasource-provider SQLite
+```
+
+- UUID?
+- Identificador Único Universal
+
+- Migrate(versionamento do banco de dados)
+```
+npx prisma migrate dev
+```
+  - : create table habits
+
+
 
 
 
