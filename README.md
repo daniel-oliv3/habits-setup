@@ -96,6 +96,15 @@ node soma.js
 npm init -y
 ```
 
+**Fastify**
+
+- Framework fastify(`node_modules` `packahe-lock.json`) Dependências
+```
+npm install fastify
+```
+
+- Criar a pasta `src` na raiz do projeto
+- Criar o arquivo `server.ts` dentro da pasta `src`
 
 
 
