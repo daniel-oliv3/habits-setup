@@ -136,9 +136,28 @@ npm i tsx -D
 - Alterar trecho de código no arquivo `package.json`
 ```json
   "scripts": {
-    "dev": "tsx src/server.ts"
+    "dev": "tsx watch src/server.ts"
   },
 ```
+
+- Roda o projeto
+```
+npm run dev
+``` 
+
+**Rotas**
+
+- Back-and API RESTfull
+- Criando a primeira rota
+
+**Frame-work**
+- Fastify
+  - SITE: https://www.fastify.io/
+
+
+
+
+
 
 
 
