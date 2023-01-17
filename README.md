@@ -75,8 +75,10 @@ React.js, React Native, Node.js, JavaScript, TypeScript, Tailwind CSS.
 - Acessar a pasta `server`
 
 **Fundamentos do NodeJS**
-- Node permite executar javascript fora do ambiente do browser
+
+- Node Permite Executar JavaScript Fora do Ambiente do Browser
 ```js
+/*soma.js*/
 //Exemplo Node(V8)
 var a = 1;
 var b = 2;
@@ -105,6 +107,30 @@ npm install fastify
 
 - Criar a pasta `src` na raiz do projeto
 - Criar o arquivo `server.ts` dentro da pasta `src`
+- TypeScript -> JavaScript
+- TypeScript -> Tipagem estática
+
+- Instalando o TypeScript, como um depêndencia de Desenvolvimento
+```
+npm install typescript -D
+```
+
+- Criar o arquivo `tsconfig.json`
+```
+npx tsc --init
+```
+
+- Alterar trecho de código no arquivo `tsconfig.json`
+```json
+    /* Language and Environment */
+    "target": "es2020",   
+```
+
+
+
+
+
+
 
 
 
