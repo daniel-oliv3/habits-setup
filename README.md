@@ -56,3 +56,43 @@ React.js, React Native, Node.js, JavaScript, TypeScript, Tailwind CSS.
 
 ### Figma
 - Figma do projeto: https://www.figma.com/community/file/1195326661124171197
+
+
+##
+### BACK-END
+##
+
+
+**Criação do projeto**
+
+- Criar a pasta `server`
+- Acessar a pasta `server`
+
+```js
+//Exemplo Node(V8)
+var a = 1;
+var b = 2;
+
+console.log(a + b);
+```
+
+- Executa o codigo no terminal
+```
+node soma.js
+```
+
+
+##
+### FRONT-END
+##
+
+
+
+
+
+
+
+
+
+
+
