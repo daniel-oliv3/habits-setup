@@ -154,14 +154,27 @@ npm run dev
 - Fastify
   - SITE: https://www.fastify.io/
 
+**Métodos HTTP:**
+- Get -> Buscar a informação
+- Post -> Criar
+- Put -> Atualizar (Por Completo)
+- Patch -> Atualizar (Específico)
+- Delete -> Deletar
 
 
+**Banco de Dados**
+- MySQL2 
+  - Site: https://github.com/sidorares/node-mysql2
+- Knexjs 
+  - Site: https://knexjs.org/
+- Prisma 
+  - Site: https://www.prisma.io/
 
-
-
-
-
-
+**Prisma**
+- Instalar o Prisma como depêndencia de desenvolvimento
+```
+npm i -D prisma
+```
 
 
 
